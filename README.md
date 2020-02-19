@@ -10,3 +10,4 @@ Todos os roteiros podem ser acessados pelo site do Github.
 
 - [Aula 01 - Introdução ao Pandas](./aula01)
 - [Aula 02 - Tipos de Variáveis e Medidas Resumo](./aula02)
+- [Aula 03 - Análise Exploratória: Duas variáveis quantitativas](./aula03)
