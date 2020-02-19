@@ -16,7 +16,7 @@ Todos os roteiros podem ser acessados pelo site do Github.
 - [Aula 02 - Tipos de Variáveis e Medidas Resumo](./aula02)
     - [Atividade de sala](./aula02/Aula02-Atividade_PandasETiposDeVariaveis.ipynb)
     - [Exercícios](./aula02/Aula02-Exercicios_PandasETiposDeVariaveis.ipynb)
-    - [Base de dados: EmpresaTV Cod.xlsx](./aula02/EmpresaTV Cod.xlsx)
+    - [Base de dados: EmpresaTV Cod.xlsx]("./aula02/EmpresaTV Cod.xlsx")
 - [Aula 03 - Análise Exploratória: Duas variáveis quantitativas](./aula03)
     - [Atividade de sala](./aula03/Aula03_Atividade_ExploratoriaDuasVariaveisQuantitativas_Mundo.ipynb)
     - [Exercícios](./aula03/Aula03_Exercicio_ExplorandoDuasVariaveisQuantitativas_Discriminacao.ipynb)
