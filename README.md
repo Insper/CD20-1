@@ -32,4 +32,4 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Base de dados: titanic.xlsx](./aula07/titanic.xlsx)
 - [Aula 08 - Variáveis Aleatórias Discretas](./aula08)
     - [Atividade de sala](./aula08/Aula08_Atividade_VariaveisAleatoriasDiscretas.ipynb)
-    - [Exercícios](./aula08/Aula08_Exercício_VariaveisAleatoriasDiscretas.ipynb)
+    - [Exercícios](./aula08/Aula08_Exercicio_VariaveisAleatoriasDiscretas.ipynb)
