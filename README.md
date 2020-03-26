@@ -33,3 +33,7 @@ Todos os roteiros podem ser acessados pelo site do Github.
 - [Aula 08 - Variáveis Aleatórias Discretas](./aula08)
     - [Atividade de sala](./aula08/Aula08_Atividade_VariaveisAleatoriasDiscretas.ipynb)
     - [Exercícios](./aula08/Aula08_Exercicio_VariaveisAleatoriasDiscretas.ipynb)
+- [Aula 09 - Modelos Probabilísticos Discretos](./aula09)
+    - [Atividade de sala](./aula09/Aula09_Atividade_ModelosProbabilísticosDiscretos.ipynb)
+    - [Exercícios](./aula09/Aula09_Exercicios_ModelosProbabilísticosDiscretos.ipynb)
+    - [Base de dados: Carros.txt](./aula09/Carros.txt)
