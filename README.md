@@ -55,4 +55,5 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Exemplo de aula](./aula12/Aula_12_Exemplos.ipynb)
 - [Aula 15 - Modelos Probabilísticos Conínuos: Normal](./aula15)
     - [Atividade de sala](./aula15/Aula15_Atividade_ModelosProbabilisticosContinuosNormal.ipynb)
+    - [Exercícios](./aula15/Aula15_Exercicios_ModelosProbabilisticosContinuosNormal.ipynb)
     - [Base de dados: poluentes.csv](./aula15/poluentes.csv)
