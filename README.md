@@ -53,3 +53,6 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Atividade de sala](./aula12/Aula_12_Atividade_Exponencial.ipynb)
     - [Base de dados: transistores.csv](./aula12/transistores.csv)
     - [Exemplo de aula](./aula12/Aula_12_Exemplos.ipynb)
+- [Aula 15 - Modelos Probabilísticos Conínuos: Normal](./aula15)
+    - [Atividade de sala](./aula15/Aula15_Atividade_ModelosProbabilisticosContinuosNormal.ipynb)
+    - [Base de dados: poluentes.csv](./aula15/poluentes.csv)
