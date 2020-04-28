@@ -57,3 +57,7 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Atividade de sala](./aula15/Aula15_Atividade_ModelosProbabilisticosContinuosNormal.ipynb)
     - [Exercícios](./aula15/Aula15_Exercicios_ModelosProbabilisticosContinuosNormal.ipynb)
     - [Base de dados: poluentes.csv](./aula15/poluentes.csv)
+- [Aula 16 - Combinação de Variáveis Aleatórias](./aula16)
+    - [Atividade de sala](./aula16/Aula16_Atividade_CombinacaoDeVariaveisAleatorias.ipynb)
+    - [Exercícios](Aula16_Exercicio_CombinacaoDeVariaveisAleatorias.ipynb)
+    - [Propriedades de Variáveis Aleatórias](Aula16_PropriedadesDeVariaveisAleatorias.ipynb)
