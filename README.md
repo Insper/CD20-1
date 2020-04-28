@@ -59,5 +59,5 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Base de dados: poluentes.csv](./aula15/poluentes.csv)
 - [Aula 16 - Combinação de Variáveis Aleatórias](./aula16)
     - [Atividade de sala](./aula16/Aula16_Atividade_CombinacaoDeVariaveisAleatorias.ipynb)
-    - [Exercícios](Aula16_Exercicio_CombinacaoDeVariaveisAleatorias.ipynb)
-    - [Propriedades de Variáveis Aleatórias](Aula16_PropriedadesDeVariaveisAleatorias.ipynb)
+    - [Exercícios](./aula16/Aula16_Exercicio_CombinacaoDeVariaveisAleatorias.ipynb)
+    - [Propriedades de Variáveis Aleatórias](./aula16/Aula16_PropriedadesDeVariaveisAleatorias.ipynb)
