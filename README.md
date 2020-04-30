@@ -61,3 +61,8 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Atividade de sala](./aula16/Aula16_Atividade_CombinacaoDeVariaveisAleatorias.ipynb)
     - [Exercícios](./aula16/Aula16_Exercicio_CombinacaoDeVariaveisAleatorias.ipynb)
     - [Propriedades de Variáveis Aleatórias](./aula16/Aula16_PropriedadesDeVariaveisAleatorias.ipynb)
+- [Aula 17 - Teorema do Limite Central](./aula17)
+    - [Atividade de sala](./aula17/Aula17_Atividade_TLC.ipynb)
+    - [Exercícios](./aula17/Aula17_Exercicios_TLC.ipynb)
+    - [Base de dados: resistores.csv](./aula17/resistores.csv)
+    - [Notebook interativo](./aula17/Aula17_TLC_interativo.ipynb)
