@@ -66,3 +66,5 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Exercícios](./aula17/Aula17_Exercicios_TLC.ipynb)
     - [Base de dados: resistores.csv](./aula17/resistores.csv)
     - [Notebook interativo](./aula17/Aula17_TLC_interativo.ipynb)
+- [Aula 18 - TLC, Margem de Erro e n](./aula18)
+    - [Exercícios](./aula18/Aula18_Exercicios_TLC_MargemErro_n.ipynb)
