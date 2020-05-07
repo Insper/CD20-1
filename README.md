@@ -68,3 +68,7 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Notebook interativo](./aula17/Aula17_TLC_interativo.ipynb)
 - [Aula 18 - TLC, Margem de Erro e n](./aula18)
     - [Exercícios](./aula18/Aula18_Exercicios_TLC_MargemErro_n.ipynb)
+- [Aula 19 - Teste de Hipótese para Média com Variância Conhecida](./aula19)
+    - [Atividade de sala](./aula19/Aula19_Atividade_THparaMediaComVarianciaConhecida.ipynb)
+    - [Exercícios](./aula19/Aula19_Exercicios_THparaMediaComVarianciaConhecida.ipynb)
+    - [Base de dados: tempos.csv](./aula19/tempos.csv)
