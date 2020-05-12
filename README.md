@@ -72,3 +72,5 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Atividade de sala](./aula19/Aula19_Atividade_THparaMediaComVarianciaConhecida.ipynb)
     - [Exercícios](./aula19/Aula19_Exercicios_THparaMediaComVarianciaConhecida.ipynb)
     - [Base de dados: tempos.csv](./aula19/tempos.csv)
+- [Aula 20 - Teste de Hipótese para Média com Variância Desconhecida](./aula20)
+    - [Atividade de sala](.aula20/Aula20_Atividade_THparaMediaComVarianciaDesconhecida.ipynb)
