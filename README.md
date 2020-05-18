@@ -78,3 +78,7 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Atividade de sala](./aula21/Aula21_Atividade_THparaMediaComVarianciaDesconhecida.ipynb)
     - [Exercícios](./aula21/Aula21_Exercicios_THparaMediaComVarianciaDesconhecida.ipynb)
     - [Base de dados: precipitacao.csv](./aula21/precipitacao.csv)
+- [Aula 22 - Regressão Simples](./aula22)
+    - [Atividade de sala](./aula22/Aula22_Atividade_RegressaoSimples.ipynb)
+    - [Base de dados: Gapminder - CO2 per capita](./aula22/indicator\ CDIAC\ carbon_dioxide_emissions_per_capita.xlsx)
+    - [Base de dados: Gapminder - PIB per capita](./aula22/indicator\ gapminder\ gdp_per_capita_ppp.xlsx)
