@@ -60,6 +60,7 @@ Todos os roteiros podem ser acessados pelo site do Github.
 - [Aula 16 - Combinação de Variáveis Aleatórias](./aula16)
     - [Atividade de sala](./aula16/Aula16_Atividade_CombinacaoDeVariaveisAleatorias.ipynb)
     - [Exercícios](./aula16/Aula16_Exercicio_CombinacaoDeVariaveisAleatorias.ipynb)
+    - [Exercícios APS](./aula16/Aula16_Exercicio_APS_CombinacaoDeVariaveisAleatorias.ipynb)
     - [Propriedades de Variáveis Aleatórias](./aula16/Aula16_PropriedadesDeVariaveisAleatorias.ipynb)
 - [Aula 17 - Teorema do Limite Central](./aula17)
     - [Atividade de sala](./aula17/Aula17_Atividade_TLC.ipynb)
